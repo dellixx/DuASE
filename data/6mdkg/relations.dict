@@ -1,0 +1,361 @@
+0	biokg_r_42
+1	biokg_r_43
+2	biokg_r_45
+3	biokg_r_31
+4	biokg_r_46
+5	biokg_r_19
+6	biokg_r_11
+7	biokg_r_18
+8	biokg_r_44
+9	biokg_r_6
+10	biokg_r_37
+11	biokg_r_12
+12	biokg_r_50
+13	biokg_r_0
+14	biokg_r_40
+15	biokg_r_5
+16	biokg_r_39
+17	biokg_r_8
+18	biokg_r_22
+19	biokg_r_33
+20	biokg_r_3
+21	biokg_r_41
+22	biokg_r_38
+23	biokg_r_23
+24	biokg_r_4
+25	biokg_r_48
+26	biokg_r_13
+27	biokg_r_20
+28	biokg_r_28
+29	biokg_r_14
+30	biokg_r_2
+31	biokg_r_17
+32	biokg_r_30
+33	biokg_r_10
+34	biokg_r_25
+35	biokg_r_49
+36	biokg_r_32
+37	biokg_r_7
+38	biokg_r_29
+39	biokg_r_35
+40	biokg_r_36
+41	biokg_r_1
+42	biokg_r_34
+43	biokg_r_47
+44	biokg_r_26
+45	biokg_r_21
+46	biokg_r_15
+47	biokg_r_16
+48	biokg_r_24
+49	biokg_r_27
+50	biokg_r_9
+51	/education/educational_degree/people_with_this_degree./education/education/institution
+52	/education/educational_institution/students_graduates./education/education/student
+53	/education/educational_institution/campuses
+54	/education/educational_institution/students_graduates./education/education/major_field_of_study
+55	/education/educational_institution/colors
+56	/education/educational_institution/school_type
+57	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+58	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study
+59	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+60	/education/field_of_study/students_majoring./education/education/student
+61	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+62	/education/university/fraternities_and_sororities
+63	/education/educational_degree/people_with_this_degree./education/education/student
+64	/education/educational_institution_campus/educational_institution
+65	/education/field_of_study/students_majoring./education/education/major_field_of_study
+66	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+67	/film/film/country
+68	/film/film/other_crew./film/film_crew_gig/film_crew_role
+69	/film/film/written_by
+70	/film/actor/film./film/performance/film
+71	/film/film/genre
+72	/film/film/production_companies
+73	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+74	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+75	/film/director/film
+76	/film/film/produced_by
+77	/film/film/language
+78	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+79	/film/film/executive_produced_by
+80	/film/film/film_format
+81	/film/actor/dubbing_performances./film/dubbing_performance/language
+82	/film/film/featured_film_locations
+83	/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium
+84	/film/film/story_by
+85	/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue
+86	/film/film_subject/films
+87	/film/film/music
+88	/film/film/cinematography
+89	/film/film/film_art_direction_by
+90	/film/film/film_festivals
+91	/film/film/costume_design_by
+92	/film/film/other_crew./film/film_crew_gig/crewmember
+93	/film/film/personal_appearances./film/personal_film_appearance/person
+94	/film/film/runtime./film/film_cut/film_release_region
+95	/film/film_set_designer/film_sets_designed
+96	/film/film/prequel
+97	/film/actor/film./film/performance/special_performance_type
+98	/film/film/edited_by
+99	/film/film/film_production_design_by
+100	/film/film/distributors./film/film_film_distributor_relationship/region
+101	/film/film/dubbing_performances./film/dubbing_performance/actor
+102	/film/special_film_performance_type/film_performance_type./film/performance/film
+103	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance
+104	/sports/sports_team/roster./american_football/football_historical_roster_position/position_s
+105	/sports/sports_team/colors
+106	/sports/pro_athlete/teams./sports/sports_team_roster/team
+107	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school
+108	/sports/sports_team/roster./baseball/baseball_roster_position/position
+109	/sports/sports_position/players./sports/sports_team_roster/team
+110	/sports/sport/pro_athletes./sports/pro_sports_played/athlete
+111	/sports/sports_team_location/teams
+112	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft
+113	/sports/sports_team/sport
+114	/sports/sports_team/roster./american_football/football_roster_position/position
+115	/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school
+116	/sports/sports_league/teams./sports/sports_league_participation/team
+117	/sports/sports_position/players./sports/sports_team_roster/position
+118	/sports/sports_position/players./american_football/football_historical_roster_position/position_s
+119	/sports/sports_team/roster./basketball/basketball_roster_position/position
+120	engage in negotiation
+121	host a visit
+122	sign formal agreement
+123	make an appeal or request
+124	make statement
+125	consult
+126	praise or endorse
+127	demand
+128	return, release person(s)
+129	provide aid
+130	arrest, detain, or charge with legal action
+131	express intent to meet or negotiate
+132	express intent to engage in diplomatic cooperation (such as policy support)
+133	use unconventional violence
+134	appeal for diplomatic cooperation (such as policy support)
+135	make a visit
+136	criticize or denounce
+137	engage in diplomatic cooperation
+138	accuse
+139	demonstrate or rally
+140	express intent to cooperate
+141	use conventional military force
+142	complain officially
+143	reduce relations
+144	reject
+145	defy norms, law
+146	make optimistic comment
+147	ease administrative sanctions
+148	reject proposal to meet, discuss, or negotiate
+149	threaten with military force
+150	halt negotiations
+151	investigate
+152	rally support on behalf of
+153	kill by physical assault
+154	yield
+155	engage in symbolic act
+156	deny responsibility
+157	accede to demands for change in leadership
+158	meet at a 'third' location
+159	fight with small arms and light weapons
+160	investigate crime, corruption
+161	acknowledge or claim responsibility
+162	destroy property
+163	occupy territory
+164	appeal for aid
+165	impose administrative sanctions
+166	reduce or break diplomatic relations
+167	accuse of crime, corruption
+168	retreat or surrender militarily
+169	carry out suicide bombing
+170	demand intelligence cooperation
+171	demonstrate for leadership change
+172	make pessimistic comment
+173	discuss by telephone
+174	make empathetic comment
+175	express intent to release persons or property
+176	consider policy option
+177	protest violently, riot
+178	threaten
+179	abduct, hijack, or take hostage
+180	appeal for change in leadership
+181	demand meeting, negotiation
+182	provide humanitarian aid
+183	express intent to provide military aid
+184	bring lawsuit against
+185	express accord
+186	confiscate property
+187	rally opposition against
+188	use tactics of violent repression
+189	coerce
+190	appeal for intelligence
+191	express intent to cooperate economically
+192	threaten with political dissent, protest
+193	mobilize or increase armed forces
+194	reject plan, agreement to settle dispute
+195	refuse to ease administrative sanctions
+196	expel or deport individuals
+197	impose embargo, boycott, or sanctions
+198	cooperate economically
+199	provide military aid
+200	decline comment
+201	appeal for military aid
+202	assassinate
+203	cooperate militarily
+204	demonstrate military or police power
+205	sexually assault
+206	appeal for material cooperation
+207	express intent to settle dispute
+208	engage in material cooperation
+209	appeal for economic aid
+210	ease curfew
+211	employ aerial weapons
+212	conduct strike or boycott
+213	express intent to provide humanitarian aid
+214	grant asylum
+215	express intent to provide economic aid
+216	demand settling of dispute
+217	appeal for de-escalation of military engagement
+218	physically assault
+219	demand diplomatic cooperation (such as policy support)
+220	torture
+221	appeal to engage in or accept mediation
+222	demand change in leadership
+223	provide military protection or peacekeeping
+224	apologize
+225	impose restrictions on political freedoms
+226	mobilize or increase police power
+227	appeal for policy change
+228	demand de-escalation of military engagement
+229	refuse to yield
+230	violate ceasefire
+231	forgive
+232	accuse of human rights abuses
+233	appeal for judicial cooperation
+234	declare truce, ceasefire
+235	reduce or stop economic assistance
+236	express intent to provide material aid
+237	appeal to others to settle dispute
+238	appeal for economic cooperation
+239	ban political parties or politicians
+240	impose blockade, restrict movement
+241	demand release of persons or property
+242	appeal to others to meet or negotiate
+243	reject judicial cooperation
+244	express intent to change leadership
+245	grant diplomatic recognition
+246	obstruct passage, block
+247	express intent to cooperate militarily
+248	conduct suicide, car, or other non-military bombing
+249	threaten to reduce or break relations
+250	receive deployment of peacekeepers
+251	reduce or stop military assistance
+252	express intent to ease economic sanctions, boycott, or embargo
+253	provide economic aid
+254	attempt to assassinate
+255	appeal for release of persons or property
+256	return, release property
+257	express intent to accept mediation
+258	give ultimatum
+259	appeal for humanitarian aid
+260	impose state of emergency or martial law
+261	share intelligence or information
+262	appeal for change in institutions, regime
+263	expel or withdraw peacekeepers
+264	demand material cooperation
+265	accede to demands for change in policy
+266	demand economic aid
+267	engage in judicial cooperation
+268	accuse of espionage, treason
+269	fight with artillery and tanks
+270	threaten to reduce or stop aid
+271	increase military alert status
+272	express intent to engage in material cooperation
+273	defend verbally
+274	accede to demands for change in institutions, regime
+275	mediate
+276	demand political reform
+277	threaten with repression
+278	express intent to cooperate on intelligence
+279	demand change in institutions, regime
+280	express intent to yield
+281	reject military cooperation
+282	obstruct passage to demand leadership change
+283	ease economic sanctions, boycott, embargo
+284	express intent to de-escalate military engagement
+285	veto
+286	demand judicial cooperation
+287	appeal for rights
+288	reject request for change in leadership
+289	appeal for political reform
+290	threaten non-force
+291	increase police alert status
+292	demand mediation
+293	express intent to mediate
+294	use chemical, biological, or radiological weapons
+295	demand that target yields
+296	accuse of aggression
+297	appeal for easing of administrative sanctions
+298	reject request for military aid
+299	refuse to release persons or property
+300	express intent to ease administrative sanctions
+301	demand easing of administrative sanctions
+302	engage in mass killings
+303	refuse to de-escalate military engagement
+304	demand military aid
+305	appeal for easing of economic sanctions, boycott, or embargo
+306	appeal to yield
+307	threaten with sanctions, boycott, embargo
+308	refuse to ease economic sanctions, boycott, or embargo
+309	accede to demands for rights
+310	demand policy change
+311	reduce or stop material aid
+312	express intent to cooperate on judicial matters
+313	reject material cooperation
+314	accuse of war crimes
+315	ease state of emergency or martial law
+316	reduce or stop humanitarian assistance
+317	receive inspectors
+318	investigate human rights abuses
+319	accede to requests or demands for political reform
+320	seize or damage property
+321	reject economic cooperation
+322	demand rights
+323	demobilize armed forces
+324	halt mediation
+325	express intent to provide military protection or peacekeeping
+326	appeal for target to allow international involvement (non-mediation)
+327	conduct hunger strike
+328	engage in political dissent
+329	demand humanitarian aid
+330	demonstrate for policy change
+331	threaten to halt mediation
+332	ease military blockade
+333	ease political dissent
+334	use as human shield
+335	appeal for military protection or peacekeeping
+336	threaten to halt negotiations
+337	express intent to change institutions, regime
+338	demand material aid
+339	expel or withdraw
+340	engage in mass expulsion
+341	detonate nuclear weapons
+342	express intent to institute political reform
+343	engage in violent protest for rights
+344	carry out roadside bombing
+345	express intent to change policy
+346	reject request for military protection or peacekeeping
+347	carry out car bombing
+348	threaten with administrative sanctions
+349	investigate war crimes
+350	_derivationally_related_form
+351	_hypernym
+352	_synset_domain_topic_of
+353	_member_meronym
+354	_verb_group
+355	_instance_hypernym
+356	_member_of_domain_region
+357	_has_part
+358	_also_see
+359	_member_of_domain_usage
+360	_similar_to
