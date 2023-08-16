@@ -64,7 +64,7 @@ python run.py --data_path data/9mdkg --dataset 9mdkg --do_train --cuda --do_vali
 
 ### WN18RR
 ```console
-python  run.py --data_path data/wn18rr --dataset wn18rr --do_train --cuda --do_valid --do_test --model DuASE -n 512 -b 1024 -d 32 -g 6 -a 1 -adv -de -tcr -n2 -lr 0.001 --max_steps 80000 --cpu_num 8 --test_batch_size 8 --regularization 0.4 -randomSeed 4
+python run.py --data_path data/wn18rr --dataset wn18rr --do_train --cuda --do_valid --do_test --model DuASE -n 512 -b 1024 -d 32 -g 6 -a 1 -adv -de -tcr -n2 -lr 0.001 --max_steps 80000 --cpu_num 8 --test_batch_size 8 --regularization 0.4 -randomSeed 4
 ```
 
 
@@ -77,5 +77,5 @@ python run.py --data_path data/fb15k-237 --dataset fb15k-237 --do_train --cuda -
 
 ### YAGO3-10
 ```console
-python run.py --data_path data/YAGO3-10 --dataset yago3-10 --do_train --cuda --do_valid --do_test --model DuASE -n 512 -b 1024 -d 32 -g 24 -a 1 -adv -de -tcr -lr 0.005 --max_steps 80000 --cpu_num 8 --test_batch_size 8 --regularization 0.4 -randomSeed 4
+python run.py --data_path data/yago3-10 --dataset yago3-10 --do_train --cuda --do_valid --do_test --model DuASE -n 512 -b 1024 -d 32 -g 24 -a 1 -adv -de -tcr -lr 0.005 --max_steps 80000 --cpu_num 8 --test_batch_size 8 --regularization 0.4 -randomSeed 4
 ```
