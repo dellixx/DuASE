@@ -22,11 +22,11 @@ Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archime
 | 9-MDKG   |102,880 |  426  | 456,281 | 5,200  | 5,211 |
 
 
-+ 3-MDKG dataset covers 3 domains including education, film, and sports.
++ 3-MDKG covers 3 domains including education, film, and sports.
 
-+ 6-MDKG dataset covers 6 domains including medicine, education, film, sports, politics, and dictionary.
++ 6-MDKG covers 6 domains including medicine, education, film, sports, politics, and dictionary.
 
-+ 9-MDKG dataset covers 9 domains including medicine, education, film, sports, politics, dictionary, geography, automotive, and modern stars.
++ 9-MDKG covers 9 domains including medicine, education, film, sports, politics, dictionary, geography, automotive, and modern stars.
 
 ## 🚀 Reproduce the Results on multi-domain ($n$-MDKG) KGs
 
