@@ -3,6 +3,14 @@ Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archime
 </h2>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
+</p>
+
+<p align="center">
+Codes for our paper DuASE (Under review).
+</p>
 
 
 ## 🔬 Dependencies
