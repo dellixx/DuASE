@@ -4,16 +4,16 @@ Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archime
 
 
 <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ACL-2024-green">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
 </p>
 
 <p align="center">
-Codes for our paper DuASE (Under review).
+Codes for the DuASE accepted by the ACL 2024 Findings.
 </p>
 
 
-![image](Anonymous.png)
 
 
 ## 🔬 Dependencies
